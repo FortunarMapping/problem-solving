@@ -1,0 +1,8 @@
+C:\6740201352\Lab9\AdjacencyMatrix\bin\Debug\AdjacencyMatrix.exe.config
+C:\6740201352\Lab9\AdjacencyMatrix\bin\Debug\AdjacencyMatrix.exe
+C:\6740201352\Lab9\AdjacencyMatrix\bin\Debug\AdjacencyMatrix.pdb
+C:\6740201352\Lab9\AdjacencyMatrix\obj\Debug\AdjacencyMatrix.csproj.AssemblyReference.cache
+C:\6740201352\Lab9\AdjacencyMatrix\obj\Debug\AdjacencyMatrix.csproj.CoreCompileInputs.cache
+C:\6740201352\Lab9\AdjacencyMatrix\obj\Debug\AdjacencyMatrix.exe
+C:\6740201352\Lab9\AdjacencyMatrix\obj\Debug\AdjacencyMatrix.pdb
+C:\6740201352\Lab9\AdjacencyMatrix\obj\Debug\AdjacencyMatrix.exe.config

@@ -1,0 +1,6 @@
+C:\6740201352\Lab6\DataStructureLib\bin\Debug\DataStructureLib.dll
+C:\6740201352\Lab6\DataStructureLib\bin\Debug\DataStructureLib.pdb
+C:\6740201352\Lab6\DataStructureLib\obj\Debug\DataStructureLib.csproj.AssemblyReference.cache
+C:\6740201352\Lab6\DataStructureLib\obj\Debug\DataStructureLib.csproj.CoreCompileInputs.cache
+C:\6740201352\Lab6\DataStructureLib\obj\Debug\DataStructureLib.dll
+C:\6740201352\Lab6\DataStructureLib\obj\Debug\DataStructureLib.pdb

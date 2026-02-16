@@ -1,0 +1,11 @@
+C:\6740201352\Lab8\TraversalBinaryTree\bin\Debug\TraversalBinaryTree.exe.config
+C:\6740201352\Lab8\TraversalBinaryTree\bin\Debug\TraversalBinaryTree.exe
+C:\6740201352\Lab8\TraversalBinaryTree\bin\Debug\TraversalBinaryTree.pdb
+C:\6740201352\Lab8\TraversalBinaryTree\bin\Debug\BinaryTreeLib.dll
+C:\6740201352\Lab8\TraversalBinaryTree\bin\Debug\BinaryTreeLib.pdb
+C:\6740201352\Lab8\TraversalBinaryTree\obj\Debug\TraversalBinaryTree.csproj.AssemblyReference.cache
+C:\6740201352\Lab8\TraversalBinaryTree\obj\Debug\TraversalBinaryTree.csproj.CoreCompileInputs.cache
+C:\6740201352\Lab8\TraversalBinaryTree\obj\Debug\Traversa.3E378484.Up2Date
+C:\6740201352\Lab8\TraversalBinaryTree\obj\Debug\TraversalBinaryTree.exe
+C:\6740201352\Lab8\TraversalBinaryTree\obj\Debug\TraversalBinaryTree.pdb
+C:\6740201352\Lab8\TraversalBinaryTree\obj\Debug\TraversalBinaryTree.exe.config

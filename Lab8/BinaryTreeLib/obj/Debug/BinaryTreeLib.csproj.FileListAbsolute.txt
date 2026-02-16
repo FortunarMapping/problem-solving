@@ -1,0 +1,12 @@
+C:\6740200339\BinaryTreeLib\BinaryTreeLib\bin\Debug\BinaryTreeLib.dll
+C:\6740200339\BinaryTreeLib\BinaryTreeLib\bin\Debug\BinaryTreeLib.pdb
+C:\6740200339\BinaryTreeLib\BinaryTreeLib\obj\Debug\BinaryTreeLib.csproj.AssemblyReference.cache
+C:\6740200339\BinaryTreeLib\BinaryTreeLib\obj\Debug\BinaryTreeLib.csproj.CoreCompileInputs.cache
+C:\6740200339\BinaryTreeLib\BinaryTreeLib\obj\Debug\BinaryTreeLib.dll
+C:\6740200339\BinaryTreeLib\BinaryTreeLib\obj\Debug\BinaryTreeLib.pdb
+C:\6740201352\Lab8\BinaryTreeLib\bin\Debug\BinaryTreeLib.dll
+C:\6740201352\Lab8\BinaryTreeLib\bin\Debug\BinaryTreeLib.pdb
+C:\6740201352\Lab8\BinaryTreeLib\obj\Debug\BinaryTreeLib.csproj.AssemblyReference.cache
+C:\6740201352\Lab8\BinaryTreeLib\obj\Debug\BinaryTreeLib.csproj.CoreCompileInputs.cache
+C:\6740201352\Lab8\BinaryTreeLib\obj\Debug\BinaryTreeLib.dll
+C:\6740201352\Lab8\BinaryTreeLib\obj\Debug\BinaryTreeLib.pdb

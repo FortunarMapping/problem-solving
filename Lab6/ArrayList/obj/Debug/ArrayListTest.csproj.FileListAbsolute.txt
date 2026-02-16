@@ -1,0 +1,8 @@
+C:\6740201352\Lab6\ArrayList\bin\Debug\ArrayList.exe.config
+C:\6740201352\Lab6\ArrayList\bin\Debug\ArrayList.exe
+C:\6740201352\Lab6\ArrayList\bin\Debug\ArrayList.pdb
+C:\6740201352\Lab6\ArrayList\obj\Debug\ArrayListTest.csproj.AssemblyReference.cache
+C:\6740201352\Lab6\ArrayList\obj\Debug\ArrayListTest.csproj.CoreCompileInputs.cache
+C:\6740201352\Lab6\ArrayList\obj\Debug\ArrayList.exe
+C:\6740201352\Lab6\ArrayList\obj\Debug\ArrayList.pdb
+C:\6740201352\Lab6\ArrayList\obj\Debug\ArrayList.exe.config

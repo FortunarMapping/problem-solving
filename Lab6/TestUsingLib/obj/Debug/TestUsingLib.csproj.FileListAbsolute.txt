@@ -1,0 +1,11 @@
+C:\6740201352\Lab6\TestUsingLib\bin\Debug\TestUsingLib.exe.config
+C:\6740201352\Lab6\TestUsingLib\bin\Debug\TestUsingLib.exe
+C:\6740201352\Lab6\TestUsingLib\bin\Debug\TestUsingLib.pdb
+C:\6740201352\Lab6\TestUsingLib\bin\Debug\DataStructureLib.dll
+C:\6740201352\Lab6\TestUsingLib\bin\Debug\DataStructureLib.pdb
+C:\6740201352\Lab6\TestUsingLib\obj\Debug\TestUsingLib.csproj.AssemblyReference.cache
+C:\6740201352\Lab6\TestUsingLib\obj\Debug\TestUsingLib.csproj.CoreCompileInputs.cache
+C:\6740201352\Lab6\TestUsingLib\obj\Debug\TestUsin.9939FD4C.Up2Date
+C:\6740201352\Lab6\TestUsingLib\obj\Debug\TestUsingLib.exe
+C:\6740201352\Lab6\TestUsingLib\obj\Debug\TestUsingLib.pdb
+C:\6740201352\Lab6\TestUsingLib\obj\Debug\TestUsingLib.exe.config

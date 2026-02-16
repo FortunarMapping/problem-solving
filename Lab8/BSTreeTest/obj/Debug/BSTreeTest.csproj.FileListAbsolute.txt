@@ -1,0 +1,2 @@
+C:\6740201352\Lab8\BSTreeTest\obj\Debug\BSTreeTest.csproj.AssemblyReference.cache
+C:\6740201352\Lab8\BSTreeTest\obj\Debug\BSTreeTest.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BinaryTreeLib/BinaryTreeLib.csproj" Id="bd4040cd-d86c-4e0b-a60b-5ee33ec2bf6d" />
+  <Project Path="BSTreeTest/BSTreeTest.csproj" Id="392a1766-0719-4ca6-a3fc-a43d7d6756c3" />
+  <Project Path="TraversalBinaryTree/TraversalBinaryTree.csproj" Id="fb3205ef-e7a1-4f9b-a93c-476206793a3f" />
+</Solution>
