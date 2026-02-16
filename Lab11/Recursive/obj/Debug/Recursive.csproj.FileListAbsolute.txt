@@ -1,0 +1,7 @@
+C:\6740201352\Lab11\Recursive\bin\Debug\Recursive.exe.config
+C:\6740201352\Lab11\Recursive\bin\Debug\Recursive.exe
+C:\6740201352\Lab11\Recursive\bin\Debug\Recursive.pdb
+C:\6740201352\Lab11\Recursive\obj\Debug\Recursive.csproj.AssemblyReference.cache
+C:\6740201352\Lab11\Recursive\obj\Debug\Recursive.csproj.CoreCompileInputs.cache
+C:\6740201352\Lab11\Recursive\obj\Debug\Recursive.exe
+C:\6740201352\Lab11\Recursive\obj\Debug\Recursive.pdb
